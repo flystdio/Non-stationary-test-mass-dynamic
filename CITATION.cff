@@ -1,12 +1,10 @@
+type: dataset
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Zhong"
   given-names: "Wenjie"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "The corresponding data of the nonstationary evolution of the test mass"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2025-8-4
 url: "https://github.com/flystdio/Non-stationary-test-mass-dynamic.git"
-preferred-citation: data
